@@ -19,12 +19,15 @@ http://www.kingarthurflour.com/recipes/classic-single-pie-crust-recipe
 
   * 1 (9 inch) pie crust
   * 4 cups carrots
-  * 1 cup milk
-  * 3 eggs
-  * 1/2 cup sugar
+  * 1 1/2 cup milk
+  * 4 eggs
+  * 1 cup sugar
   * 1 tsp ground cinnamon
   * 1 tsp vanilla extract
   * 1 tsp allspice (or maybe nutmeg)
+
+It's possible to use only three eggs and one cup of milk, but the texture will be
+less custardy.
 
 ## Instructions
 
