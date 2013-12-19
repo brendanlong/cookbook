@@ -12,19 +12,13 @@ SOURCES=\
     src/paprika-chicken.md \
     src/carrot-pie.md \
 
-all: cookbook.azw cookbook.epub cookbook.pdf ;
+all: cookbook.azw cookbook.epub cookbook.mobi cookbook.pdf ;
 
-cookbook.azw : $(SOURCES)
-	pandoc $^ -o $@
-
-cookbook.epub : $(SOURCES)
-	pandoc $^ -o $@
-
-cookbook.pdf : $(SOURCES)
+cookbook.% : $(SOURCES)
 	pandoc $^ -o $@
 
 clean :
-	rm cookbook.pdf
+	rm cookbook.*
 
 rebuild : clean all
 
