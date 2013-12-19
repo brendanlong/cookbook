@@ -18,7 +18,7 @@ cookbook.% : $(SOURCES)
 	pandoc $^ -o $@
 
 clean :
-	rm cookbook.*
+	rm -rf cookbook.*
 
 rebuild : clean all
 
