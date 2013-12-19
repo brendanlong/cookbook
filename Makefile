@@ -12,6 +12,11 @@ SOURCES=\
     src/paprika-chicken.md \
     src/carrot-pie.md \
 
+all: cookbook.pdf cookbook.azw ;
+
+cookbook.azw : $(SOURCES)
+	pandoc $^ -o $@
+
 cookbook.pdf : $(SOURCES)
 	pandoc $^ -o $@
 
