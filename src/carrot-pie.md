@@ -7,11 +7,14 @@ Adapted from allrecipes.com's "Carrot Pie":
 http://allrecipes.com/recipe/carrot-pie/
 
 The original was extremely sweet, noticably eggy, and didn't fill the crust,
-so I doubled the amount of carrots, reduced the sugar, and added one more egg
-(to match the increased carrots). Elyse requested that we add allspice. I also
-simplified the recipe by using a blender.
+so we doubled the amount of carrots, reduced the sugar, and added one more
+egg (to match the increased carrots). We also added allspice.
 
-I use King Arthur Flour's "Classic Single Pie Crust", but any version will do.
+Our recipe is significantly simpler because we use a blender, but it could
+be done by hand with a potato masher.
+
+Our most recent pie used King Arthur Flour's "Classic Single Pie Crust", but
+any pie crust will work.
 
 http://www.kingarthurflour.com/recipes/classic-single-pie-crust-recipe
 
@@ -27,7 +30,8 @@ http://www.kingarthurflour.com/recipes/classic-single-pie-crust-recipe
   * 1 tsp allspice (or maybe nutmeg)
 
 It's possible to use only three eggs and one cup of milk, but the texture will be
-less custardy.
+less custardy. It's still edible with 1/2 cup sugar, but not very good. 3/4 cup
+sugar might work, but we haven't tried it yet.
 
 ## Instructions
 

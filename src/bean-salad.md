@@ -2,19 +2,20 @@
 
 # Bean Salad
 
-This recipe was created from scratch, since I've found that anything tastes
-good with Italian dressing. This lets me use random canned food for a meal I
-really like.
+This recipe was created by Brendan from scratch, since he found that anything
+tastes good with Italian dressing. This lets us use random canned food for a
+tasty meal.
 
 ## Ingredients
 
   * 1 can beans (garbanzo are the best, but any will work).
   * 2 cans vegetables (corn, green beans, beets, etc.)
-  * Olive oil
-  * White vinegar
-  * Salt
-  * Garlic powder
-  * Onion powder
+  * 4 tbsp olive oil
+  * 4 tbsp white vinegar
+  * 1/2 tsp salt
+  * 1 tsp garlic powder
+  * 1 tsp onion powder
+  * 1 tsp paprika
 
 ## Instructions
 

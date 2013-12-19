@@ -2,8 +2,8 @@
 
 # Vegetable Rice Soup
 
-This recipe was created from scratch, through months of trial and error. Elyse
-doesn't let me make soup more than one a week anymore.
+Brendan created this recipe was created from scratch, through months of trial
+and error. Elyse doesn't let him make soup more than one a week anymore.
 
 ## Ingredients
 

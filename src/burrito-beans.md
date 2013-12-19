@@ -2,8 +2,9 @@
 
 # Burrito Beans
 
-This recipe was created by accident, because I started making burritos, and
-then realized that I didn't have any tempeh, tofu or seitan.
+This recipe was created by Brendan by accident, because he started making
+burritos, and then realized that there wasn't any tempeh, tofu, seitan or
+textured vegetable protein in the apartment.
 
 ## Ingredients
 
@@ -21,5 +22,5 @@ then realized that I didn't have any tempeh, tofu or seitan.
  3. Add green chilis, salt and liquid smoke.
  4. Leave on low heat until ready to serve.
 
-I usually put this in burritos with rice (with a little salt and lime juice)
+We usually put this in burritos with rice (with a little salt and lime juice)
 and salsa.

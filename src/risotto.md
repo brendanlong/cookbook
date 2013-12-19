@@ -2,7 +2,7 @@
 
 # Risotto
 
-I don't remember where this recipe is from. I like it because you don't need
+I don't remember where this recipe is from. It's nice because you don't need
 to stir constantly.
 
 ## Ingredients

@@ -6,9 +6,11 @@ Adapted from Stone Soup's "super simple carrot soup":
 
 http://thestonesoup.com/blog/2010/05/super-simple-carrot-soup-the-new-pumpkin/
 
-The original is extremely good, but it's not very filling. I found that as a
-normal meal, adding rice helped a lot. I recommend making it without rice the
-first time, since it tastes better that way.
+The original is extremely good, but it's not very filling. Adding rice helps
+to make it more substantial, but it's not quite as tasty.
+
+We discovered this recipe after buying 10 pounds of carrots at Costco. We still
+have some of those carrots.
 
 ## Ingredients
 

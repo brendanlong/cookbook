@@ -6,8 +6,9 @@ Adapted from Vegan Dad's "Crispy Cajun Chickpea Cakes":
 
 http://vegandad.blogspot.com/2009/02/crispy-cajun-chickpea-cakes.html
 
-Elyse really likes this recipe, and likes it even more with salmon (we use the
-cans from Costco). We also added more paprika, since we both love paprika.
+Elyse really likes this recipe, and discovered that it's even better with
+salmon (she uses the cans from Costco). Our version uses more paprika, since
+we love paprika.
 
 ## Ingredients
 
