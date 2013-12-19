@@ -2,7 +2,7 @@
 
 # Burrito Beans
 
-This recipe was created by Brendan by accident, because he started making
+This recipe was created by accident, because Brendan started making
 burritos, and then realized that there wasn't any tempeh, tofu, seitan or
 textured vegetable protein in the apartment.
 

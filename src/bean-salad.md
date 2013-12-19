@@ -2,7 +2,7 @@
 
 # Bean Salad
 
-This recipe was created by Brendan from scratch, since he found that anything
+This recipe was created from scratch, after the discovery that anything
 tastes good with Italian dressing. This lets us use random canned food for a
 tasty meal.
 
@@ -21,3 +21,4 @@ tasty meal.
 
  1. Drain cans and add to a bowl.
  2. Add everything else in tasty ratios.
+ 3. Mix well.

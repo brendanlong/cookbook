@@ -3,7 +3,8 @@
 # Risotto
 
 I don't remember where this recipe is from. It's nice because you don't need
-to stir constantly.
+to stir constantly. It's extremely good if you mix in sauteed mushrooms (or
+add dried mushrooms near the beginning).
 
 ## Ingredients
 

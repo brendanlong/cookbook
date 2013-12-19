@@ -13,7 +13,7 @@ egg (to match the increased carrots). We also added allspice.
 Our recipe is significantly simpler because we use a blender, but it could
 be done by hand with a potato masher.
 
-Our most recent pie used King Arthur Flour's "Classic Single Pie Crust", but
+Most recently, we used King Arthur Flour's "Classic Single Pie Crust", but
 any pie crust will work.
 
 http://www.kingarthurflour.com/recipes/classic-single-pie-crust-recipe
