@@ -12,10 +12,12 @@ SOURCES=\
     src/paprika-chicken.md \
     src/carrot-pie.md \
 
+PANDOC_OPTIONS=--self-contained --smart
+
 all: cookbook.azw cookbook.epub cookbook.mobi cookbook.pdf ;
 
 cookbook.% : $(SOURCES)
-	pandoc $^ -o $@
+	pandoc $(PANDOC_OPTIONS) $^ -o $@
 
 clean :
 	rm -rf cookbook.*

@@ -1,3 +1,7 @@
+% Bear & Lion Cookbook
+% Brendan Long ; Elyse Blazosky
+
+\pagenumbering{gobble}
 \newpage
 
 # Introduction
