@@ -5,8 +5,9 @@ SOURCES=\
     src/bean-salad.md \
     src/carrot-soup.md \
     src/vegetable-soup.md \
-    src/chili.md \
     src/burrito-beans.md \
+    src/chili.md \
+    src/coconut-curry.md \
     src/cajun-chickpea-and-salmon-cakes.md \
     src/risotto.md \
     src/paprika-chicken.md \
