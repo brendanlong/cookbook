@@ -2,24 +2,29 @@
 
 # Paprika Chicken
 
-This recipe is a favorite in Elyse's family. Brendan hasn't made it, so it's
-unaltered.
+This recipe is a favorite in Elyse's family and is commonly paired with
+cucumber salad. Brendan hasn't made it, so it's unaltered.
 
 ## Ingredients
 
   * 2 medium onions, peeled and minced
   * 2 tbps lard
-  * 1 chicken, about 3 lbs, disjoined, washed and dried
+  * 1 chicken, about 3 lbs, disjoined, washed and dried*
   * 1 large ripe tomato, peeled and cut into pieces
-  * 1 heaping tbsp "Noble Rose"* paprika
+  * 1 heaping tbsp "Noble Rose"** paprika
   * 1 tsp salt
   * 1 green pepper slices
   * 2 tbsp sour cream
   * 1 tbsp flour
   * 2 tbsp heavy cream
 
-\* As far as I can tell, "noble rose" paprika means "not spicy", and it's
-basically the only kind you can buy in the United States.
+\* Elyse's family often makes this dish with chicken breasts; you just have to
+be careful not to dry out the chicken while cooking.
+
+\*\*"Noble rose" paprika means "not spicy", and it's basically the only kind
+you can buy in the United States. When the dish is served, spicy paprika is at
+the table to be added by the individual. Elyse's family prefers to use the
+paprika in a paste form if you can find it.
 
 ## Instructions
 
