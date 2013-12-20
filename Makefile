@@ -8,6 +8,7 @@ SOURCES=\
     src/burrito-beans.md \
     src/chili.md \
     src/coconut-curry.md \
+    src/rice-and-lentils.md \
     src/cajun-chickpea-and-salmon-cakes.md \
     src/risotto.md \
     src/paprika-chicken.md \
