@@ -38,6 +38,5 @@ powder.
  6. Once the timer runs off, turn off the heat, take the lid off, and stir it up.
 
     If the mixture is still watery, cook it uncovered until it's the consistency you want, and turn the heat up more next time you cook it. If the mixture burned, keep the heat lower next time.
-
  7. Add more salt if needed.
 

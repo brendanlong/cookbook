@@ -15,18 +15,18 @@ it cheaply.
   * 2 tsbp oil
   * 1 onion, diced
   * 2 cloves of garlic, minced
-  * 1" piece of ginger, minced (sub powdered if necessary)
+  * 1 in piece of ginger, minced (sub powdered if necessary)
   * 1 can of chickpeas, drained and rinsed
   * 1 tsp cinnamon
   * 1/2 tsp cloves
   * 1/4 tsp allspice
-  * 1/2 tsp garam masala (sub curry powder if necessary)
+  * 1/2 tsp garam masala\* (sub curry powder if necessary)
   * 1 tsp salt
   * 2 heaping tbsp tomato paste
   * 1 can coconut milk
   * 1/4 cup chopped cilantro (optional)
 
-Garam masala is reasonably cheap, and can be found at most non-Costco stores.
+\* Garam masala is reasonably cheap, and can be found at most non-Costco stores.
 Some grocery stores have ginger, but we usually use dried because it's more
 convenient.
 
@@ -38,4 +38,4 @@ convenient.
   4. Add chickpeas and spices and fry for 2 mins.
   5. Add tomato paste and coconut milk and bring to simmering.
   6. Adjust spices to your liking. 
-  7. Garnish with cilantro and serve over rice. 
+  7. Garnish with cilantro and serve over rice.
