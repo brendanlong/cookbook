@@ -3,7 +3,7 @@
 # Chili
 
 Brendan created this by trial and error, with quite a few pots of chili being
-made. Cole rarely eat chili anymore.
+made. Cole ate so much of this that he rarely eats chili anymore.
 
 ## Ingredients
 
@@ -11,6 +11,8 @@ made. Cole rarely eat chili anymore.
   * 1 can diced tomatoes
   * 1 can tomato paste
   * 1 onion
+  * 1/2 cup apple cider or white vinegar
+  * 2 Tbsp sugar
   * A lot of chili powder
   * Salt
 
